@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leshchrusl
+- 👋 Hi, I’m Ruslan
 - 👀 I’m interested in development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on little startups
